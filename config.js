@@ -1,2 +1,2 @@
-const API_KEY = "FLAG{Super_Secret_API_KEY}";
+const API_KEY = "dummy_key";
 console.log("DB Connected");
